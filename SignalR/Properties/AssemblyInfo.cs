@@ -3,6 +3,6 @@ using System.Runtime.CompilerServices;
 
 [assembly: AssemblyTitle("SignalR.Server")]
 [assembly: AssemblyDescription("Async signaling library for .NET to help build real-time, multi-user interactive web applications.")]
-[assembly: InternalsVisibleTo("SignalR.ScaleOut")]
-[assembly: InternalsVisibleTo("SignalR.Tests")]
+[assembly: InternalsVisibleTo("SignalR.ScaleOut,PublicKey=002400000480000094000000060200000024000052534131000400000100010055e324f5414cfd50f8836e98f99618d518f74245020fae175029558b1436be731a0e55bfb51cfb304d08c87e1b2dcd8bef5f8c8203d309f35b933793385fbdea13dcd5dfe61f3ae2977440c9660ae317825eb59dbfec0e63181a74eb27f45f5756888fec88a3de771a7b8aace0947ceee88a13f0a52ca9924703756bfc0db49a")]
+[assembly: InternalsVisibleTo("SignalR.Tests,PublicKey=002400000480000094000000060200000024000052534131000400000100010055e324f5414cfd50f8836e98f99618d518f74245020fae175029558b1436be731a0e55bfb51cfb304d08c87e1b2dcd8bef5f8c8203d309f35b933793385fbdea13dcd5dfe61f3ae2977440c9660ae317825eb59dbfec0e63181a74eb27f45f5756888fec88a3de771a7b8aace0947ceee88a13f0a52ca9924703756bfc0db49a")]
 [assembly: AssemblyVersion("0.5.2.0")]
